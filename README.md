@@ -10,6 +10,8 @@ The Real-Time Information Integration for Neural Adaptation (RITNA) model is a n
 
 In an era where data is continuously evolving, the static nature of traditional training datasets can limit the potential of neural networks to adapt to new information. The RITNA model addresses this challenge by incorporating a mechanism that integrates real-time data directly into the training process, thereby enabling the model to adapt dynamically to the latest information.
 
+![model loss](./images/graph.png)
+
 ## Methodology
 
 ### System Architecture
